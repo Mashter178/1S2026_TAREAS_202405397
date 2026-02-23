@@ -1,0 +1,22 @@
+ESTUDIANTES
+
+carnet,nombre,apellido,carrera,semestre
+
+202012345,Juan,Pérez,Sistemas,5 
+202013456,María,López,Industrial,3 
+202014567,Carlos,González,Civil,7 
+
+CURSOS
+
+codigo,nombre,creditos,semestre,carrera
+
+771,Lenguajes Formales y de Programación,5,3,Sistemas 
+795,Inteligencia Artificial 1,5,7,Sistemas 
+348,Resistencia de Materiales,6,5,Civil
+
+NOTAS
+
+carnet,codigo_curso,nota,ciclo,anio
+
+202012345,771,85.5,1S,2024 
+202012345,795,92.0,2S,2024
